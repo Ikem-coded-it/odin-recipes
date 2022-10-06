@@ -1,0 +1,42 @@
+* {
+    margin: 2px;
+    padding: 2px;
+    text-align: center;
+}
+
+h1, p {
+    font-family: "Arial", Helvetica, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    border-radius: 50px;
+}
+
+.title-sec {
+    background-color: #23aa99;
+}
+
+div {
+    background-color: #3400cc;
+    color: white;
+}
+
+.description-sec {
+    color: white;
+}
+
+.description-sec > h2 {
+    font-weight: 500px;
+    font-size: 60px;
+}
+ 
+.links-sec {
+    background-color: yellowgreen;
+    color: black;
+}
+
+.btn {
+    color: white;
+}
